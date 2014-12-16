@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?compositeArtifactRepository version='1.0.0'?>
+<repository name='&quot;voclipse development environment&quot;'
+	type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository'
+	version='1.0.0'>
+	<properties size='1'>
+		<property name='p2.timestamp' value='1243822502440' />
+	</properties>
+	<children size='4'>
+	    <child location='http://dl.bintray.com/vogellacompany/saneclipse/'/>
+            <child location='http://dl.bintray.com/vogellacompany/eclipse-preference-spy'/>
+	    <child location='http://dl.bintray.com/vogellacompany/junit-4-tools/'/>
+	    <child location='https://raw.githubusercontent.com/trylimits/Eclipse-Postfix-Code-Completion/master/org.eclipse.jdt.postfixcompletion.updateSite/target/site/'/>
+            <child location='http://download.eclipse.org/egit/updates-stable-nightly/'/>
+	    <child location='http://download.eclipse.org/technology/m2e/milestones/1.6/'/>
+	</children>
+</repository>
