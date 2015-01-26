@@ -6,13 +6,12 @@
 	<properties size='1'>
 		<property name='p2.timestamp' value='1243822502499' />
 	</properties>
-	<children size='5'>
+	<children size='7'>
 		<child location='http://dl.bintray.com/vogellacompany/saneclipse/' />
 		<child location='http://dl.bintray.com/vogellacompany/eclipse-preference-spy' />
 		<child location='http://dl.bintray.com/vogellacompany/junit-4-tools/' />
-		<child location='http://dl.bintray.com/vogellacompany/e4-tools-luna' />
-		<child
-			location='https://raw.githubusercontent.com/trylimits/Eclipse-Postfix-Code-Completion/master/org.eclipse.jdt.postfixcompletion.updateSite/target/site/' />
+		<child location='http://dl.bintray.com/vogellacompany/e4tools-luna' />
+		<child location='https://raw.githubusercontent.com/trylimits/Eclipse-Postfix-Code-Completion/master/org.eclipse.jdt.postfixcompletion.updateSite/target/site/' />
 		<child location='http://download.eclipse.org/egit/updates-stable-nightly/' />
 		<child location='http://download.eclipse.org/technology/m2e/milestones/1.6/' />
 	</children>
